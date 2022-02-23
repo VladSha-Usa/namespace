@@ -1,0 +1,16 @@
+{
+    "name": "acer/namespace",
+    "autoload": {
+        "psr-4": {
+            "Models\\": "task2/App/Models",
+            "App\\": "task2/App"
+        }
+    },
+    "authors": [
+        {
+            "name": "vladshap",
+            "email": "newshapovalov2002@gmail.com"
+        }
+    ],
+    "require": {}
+}
